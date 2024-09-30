@@ -1,0 +1,1 @@
+This repository contains a collection of projects focused on solving real-world problems through data analysis using a variety of tools including Excel, SQL, Python, and Power BI. Each project is designed to demonstrate different analytical techniques, providing valuable insights through data manipulation, visualization, and reporting.
