@@ -1,4 +1,9 @@
 ﻿**Problem Statement for the Project** 
+![Dashboard 1](https://github.com/user-attachments/assets/1d255528-2f45-4b7e-96ab-f99bf5757384)
+
+![Dashboard 2](https://github.com/user-attachments/assets/d42da627-6c24-4ccd-8a9b-d5bb7304796c)
+
+![Dashboard 3](https://github.com/user-attachments/assets/c09156dc-9ec4-494f-8cae-f4fb46fe3ac2)
 
 **KPI Requirements**
 
